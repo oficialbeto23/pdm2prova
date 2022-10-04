@@ -1,0 +1,45 @@
+{
+
+   "elementos" : [
+
+    { "elemento" : "agua"  },
+
+    { "elemento" : "ar"  },
+    
+    { "elemento" : "fogo"  },
+
+    { "elemento" : "terra"  }
+
+  ],
+
+  "inteiros" : [
+
+    { "inteiro" : 1 },
+
+    { "inteiro" : 2 },
+     
+    { "inteiro" : 3 },
+     
+    { "inteiro" : 4 },
+     
+    { "inteiro" : 5 },
+     
+    { "inteiro" : 6 },
+     
+    { "inteiro" : 7 },
+     
+    { "inteiro" : 8 },
+     
+    { "inteiro" : 9 },
+
+    { "inteiro" : 10 }
+
+  ]
+
+  }
+
+
+
+
+
+
